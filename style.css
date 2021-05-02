@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: beige;
+}
+div{
+    margin-top: 15px; 
+}
+.is{
+    display: flex;
+    justify-content: center;
+}
+.ss{
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: azure;
+    
+}
+img{
+    width: 200px;
+    height: 200px;
+}
